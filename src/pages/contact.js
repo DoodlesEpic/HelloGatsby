@@ -6,7 +6,6 @@ import Container from "../components/container"
 export default function Contact() {
   return (
     <Container style={{ color: `teal` }}>
-      <Link to="/">Home</Link>
       <Header headerText="Contact" />
       <p>Send us a message!</p>
       <p>

@@ -6,7 +6,6 @@ import Container from "../components/container"
 export default function Home() {
   return (
     <Container>
-      <Link to="/contact/">Contact</Link>
       <Header headerText="Hello Gatsby!" />
       <p>What a world.</p>
       <p>
