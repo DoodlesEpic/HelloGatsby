@@ -9,6 +9,9 @@ export default function Contact() {
       <Link to="/">Home</Link>
       <Header headerText="Contact" />
       <p>Send us a message!</p>
+      <p>
+        <a href="mailto:me@example.com">me@example.com</a>
+      </p>
     </Container>
   )
 }
