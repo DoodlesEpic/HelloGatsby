@@ -9,6 +9,10 @@ export default function Home() {
       <Link to="/contact/">Contact</Link>
       <Header headerText="Hello Gatsby!" />
       <p>What a world.</p>
+      <p>
+        What do I like to do? Lots of course but definitely enjoy building
+        websites.
+      </p>
       <img src="https://source.unsplash.com/random/400x200" alt="" />
     </Container>
   )
